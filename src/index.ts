@@ -1,5 +1,6 @@
 import yan2, { B, yan } from './test';
 
+console.log([1].includes(1));
 console.log(yan);
 console.log(yan2);
 
