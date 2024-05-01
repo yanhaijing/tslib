@@ -1,0 +1,8 @@
+{
+    "name": "tslib",
+    "npmname": "@js-lib/tslib",
+    "umdname": "tslib",
+    "username": "yanhaijing",
+    "type": "ts",
+    "version": "3.0.0-alpha.0"
+}

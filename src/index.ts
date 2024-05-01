@@ -1,9 +1,8 @@
 import yan2, { B, yan } from './test';
-import { extendDeep } from '@jsmini/extend';
+
 console.log([1].includes(1));
 console.log(yan);
 console.log(yan2);
-console.log(extendDeep);
 
 const a = 1 + 1;
 const b = a;

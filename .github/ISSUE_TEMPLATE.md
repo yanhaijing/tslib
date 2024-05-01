@@ -1,19 +1,20 @@
-### 问题是什么
+### What problem
 
-问题的具体描述，尽量详细
+Description of the problem, as detailed as possible.
 
-### 环境
+### Environment
 
-- 手机: 小米6
-- 系统：安卓7.1.1
-- 浏览器：chrome 61
-- jslib版本：0.2.0
-- 其他版本信息
+- Mobile: MI6
+- System: Android7.1.1
+- Browser：Chrome61
+- jslib version: 0.2.0
+- some other information
 
-### 在线例子
+### Online demo
 
-如果有请提供在线例子
+Please provide online demo if possible.
 
-### 其他
+### Other
 
-其他信息
+some other information.
+

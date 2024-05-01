@@ -10,7 +10,7 @@ module.exports = {
     // When export and export default are not used at the same time, set legacy to true.
     // legacy: true,
     banner: common.banner,
-    sourcemap: true,
+    sourcemap: true
   },
   plugins: [
     ...common.getCompiler({
